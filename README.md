@@ -29,7 +29,7 @@ Shareable ESLint config for projects tested with Mocha
 ### Installation
 
 ```sh
-$ npm install @pragmatic-divops/eslint-config-mocha
+$ npm install @pragmatic-divops/eslint-config-mocha --save-dev
 ```
 
 ### Example
