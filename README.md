@@ -1,6 +1,8 @@
 # eslint-config-mocha
 
-Shareable ESLint config for projects tested with Mocha
+[shareable configuration](https://eslint.org/docs/developer-guide/shareable-configs#shareable-configs)
+for [ESLint](https://eslint.org) for
+[Mocha](https://mochajs.org) tests, which extends [@form8ion/eslint-config-mocha](https://github.com/form8ion/eslint-config-mocha)
 
 <!--status-badges start -->
 
