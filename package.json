@@ -28,7 +28,7 @@
     "@form8ion/eslint-config-mocha": "1.2.16"
   },
   "devDependencies": {
-    "@pragmatic-divops/commitlint-config": "1.0.14",
+    "@pragmatic-divops/commitlint-config": "1.0.15",
     "@pragmatic-divops/eslint-config": "1.0.34",
     "@pragmatic-divops/remark-preset": "2.0.7",
     "ban-sensitive-files": "1.9.17",
